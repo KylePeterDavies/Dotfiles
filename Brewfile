@@ -1,3 +1,4 @@
+# brew tap name/tap
 tap "homebrew/cask"
 
 # brew install ...
