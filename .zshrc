@@ -4,3 +4,4 @@ setopt NO_CASE_GLOB
 
 alias tf=terraform
 alias tg=terragrunt
+alias k=kubectl
