@@ -7,7 +7,7 @@
 Install GNU's Not Unix Stow.
 
 ```bash 
-brew install gnu 
+brew install stow 
 ```
 
 ```bash 
