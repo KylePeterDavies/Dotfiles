@@ -1,2 +1,4 @@
 [core]
   excludesFile = $HOME/.global_gitignore
+[push]
+  autoSetupRemote = true
